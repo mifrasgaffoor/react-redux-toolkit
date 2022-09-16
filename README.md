@@ -1,3 +1,10 @@
+# project
+
+In this project i used to redux to manage state
+
+1. login and logout
+2. Change the font color
+
 # What is Redux
 
 Redux is state management open source library to manage states
@@ -19,3 +26,12 @@ The typical data flow in Redux starts with a call back from the User Interface c
 # installation
 
 npm i redux react-redux @reduxjs/toolkit
+
+# Steps
+
+ConfigureSotre --> Create Global Store
+Provider --> Wrap the provider onto App
+Store
+createSlice and export into index use it into store reducer
+useSlector
+useDispatch
