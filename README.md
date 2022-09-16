@@ -1,6 +1,6 @@
 # project
 
-In this project i used to redux to manage state
+In this project i used redux to manage state
 
 1. login and logout
 2. Change the font color
